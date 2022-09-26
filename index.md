@@ -11,9 +11,12 @@ All the Content in the application is taken from the public access Internet reso
 2) [Arduino.ru - https://All-arduino.ru](https://All-arduino.ru);
 3) [Arduino.cc - https://www.arduino.cc](https://www.arduino.cc);
 4) [Kiber Koder - https://bitkit.com.ua/file_downloads/kiberkozer_manual/RUS_instr_kiberkoder.pdf](https://bitkit.com.ua/file_downloads/kiberkozer_manual/RUS_instr_kiberkoder.pdf);
-5) [All Arduino - https://all-arduino.ru]
+5) [All Arduino - https://all-arduino.ru](https://all-arduino.ru).
 
-All this links are provided in the main Menu of the Application.
+All this links are provided in the Main Menu of the Application.
 
 ### Support or Contact
 
+Email: zhbr282@gmail.com
+Phone: +1(604)970-1165
+Phone: +38(099)277-6090
