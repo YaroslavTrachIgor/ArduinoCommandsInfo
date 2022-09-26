@@ -7,10 +7,13 @@ In the main Menu of the App there is a huge list that consists of links that wil
 ### Application Content
 
 All the Content in the application is taken from the public access Internet resources:
-[Wikipedia - https://ru.wikipedia.org/wiki/Arduino_IDE](https://ru.wikipedia.org/wiki/Arduino_IDE)
+1) [Wikipedia - https://ru.wikipedia.org/wiki/Arduino_IDE](https://ru.wikipedia.org/wiki/Arduino_IDE);
+2) [Arduino.ru - https://All-arduino.ru](https://All-arduino.ru);
+3) [Arduino.cc - https://www.arduino.cc](https://www.arduino.cc);
+4) [Kiber Koder - https://bitkit.com.ua/file_downloads/kiberkozer_manual/RUS_instr_kiberkoder.pdf](https://bitkit.com.ua/file_downloads/kiberkozer_manual/RUS_instr_kiberkoder.pdf);
+5) [All Arduino - https://all-arduino.ru]
 
 All this links are provided in the main Menu of the Application.
-
 
 ### Support or Contact
 
