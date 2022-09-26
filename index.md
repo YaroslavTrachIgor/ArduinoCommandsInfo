@@ -4,7 +4,12 @@ Arduino Commands is an application that provides users with the ability to learn
 
 In the main Menu of the App there is a huge list that consists of links that will direct the user to the source.
 
-### Markdown
+### Application Content
+
+All the Content in the application is taken from the public access Internet resources:
+[Wikipedia - https://ru.wikipedia.org/wiki/Arduino_IDE](https://ru.wikipedia.org/wiki/Arduino_IDE)
+
+All this links are provided in the main Menu of the Application.
 
 
 ### Support or Contact
