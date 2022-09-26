@@ -17,6 +17,6 @@ All this links are provided in the Main Menu of the Application.
 
 ### Support or Contact
 
-Email: zhbr282@gmail.com
-Phone: +1(604)970-1165
-Phone: +38(099)277-6090
+- Email: zhbr282@gmail.com
+- Phone: +1(604)970-1165
+- Phone: +38(099)277-6090
