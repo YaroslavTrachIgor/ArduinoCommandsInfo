@@ -30,6 +30,7 @@ The ArduinoCommands development team respects its users and is not going to coll
 
 ## Support or Contact
 
+- GitHub: [ArduinoCommandsInfo](https://github.com/YaroslavTrachIgor/ArduinoCommandsInfo).
 - Email: zhbr282@gmail.com
 - Phone: +1(604)970-1165
 - Phone: +38(099)277-6090
